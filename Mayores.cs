@@ -22,7 +22,7 @@ namespace ConsoleApp7
             }
         }
 
-        public int MayorC()
+        public int MayorB()
         {
             if (n1 > n2)
             {
